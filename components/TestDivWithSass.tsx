@@ -4,12 +4,8 @@ import styles from "./TestDiv.module.scss";
 const TestDivWithSass = () => {
   return (
     <div className={styles.parent}>
-      <p>A title</p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-        egestas magna quis metus placerat semper. Aenean consectetur pretium
-        nulla
-      </p>
+      <p>New Project</p>
+      <p>Create a new project from a variety of starting templates.</p>
     </div>
   );
 };
